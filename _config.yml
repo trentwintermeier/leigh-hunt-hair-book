@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: The Leigh Hunt Hair Book
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A collection of hair from 21 authors and statesmen.
+tagline: A collection of hair from 21 authors and statesmen complied by the English critic, essayist, and poet J.H. Leigh Hunt.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: A collection of hair compiled by J.H. Leigh Hunt.
+description: This digital collection exhibits the 21 locks of hair of various authors and statesmen compiled by J.H. Leigh Hunt in the early-mid 19th century. 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: leigh hunt; hair
+keywords: leigh hunt; hair; romanticism
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Dr. Teri Fickling; Makayla Baughman
 
 ##########
 # COLLECTION SETTINGS
