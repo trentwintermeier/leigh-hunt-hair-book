@@ -1,5 +1,5 @@
 display_name,stub,dropdown_parent
-Home,https://hrc.contentdm.oclc.org/customizations/collection/p15878coll14/images/landingpage/LandingPage_Hair.jpg,
+Home,/home.html,
 Browse,/browse.html,
 Subjects,/subjects.html,johnmiltonpage
 Locations,/locations.html,
@@ -8,4 +8,4 @@ Timeline,/timeline.html,
 Data,/data.html,
 About,/about.html,
 John Milton,/about-johnmilton.html,Scholarship
-Scholarship,
+Scholarship,,
