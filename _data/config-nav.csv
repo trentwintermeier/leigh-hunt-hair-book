@@ -2,8 +2,7 @@ display_name,stub,dropdown_parent
 Home,/index.html,
 Browse,/browse.html,
 Subjects,/subjects.html,johnmiltonpage
-Locations,/locations.html,
-Map,/map.html,
+Scholarship,,
 Timeline,/timeline.html,
 Data,/data.html,
 About,/about.html,
