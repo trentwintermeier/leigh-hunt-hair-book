@@ -18,6 +18,6 @@ Though Leigh Hunt and Napoleon Bonaparte were never formally acquainted, Hunt’
 
 In a previous issue of Examiner VIII published in March of 1815, Hunt imbues his argument with impartiality using comparative rhetoric, stating:
 
-{% include feature/modal.html button="Examiner VIII" title="Hunt on Napoleon" text="Hunt: BONAPARTE is not rasher than ALEXANDER was; but a series of such rashnesses make up such men, and if they succeed, get them equally fine titles with posterity” (Hunt 26). Leigh Hunt implicitly asserts that, in his opinion, Napoleon’s failures are not necessarily inherent, but borne of the nature of his position."" color="primary" %}
+{% include feature/modal.html button="Examiner VIII" title="Hunt on Napoleon" text="Hunt:BONAPARTE is not rasher than ALEXANDER was; but a series of such rashnesses make up such men, and if they succeed, get them equally fine titles with posterity” (Hunt 26). Leigh Hunt implicitly asserts that, in his opinion, Napoleon’s failures are not necessarily inherent, but borne of the nature of his position." color="primary" %}
 
 Hunt’s journalistic relationship with Bonaparte provides a rationale for the inclusion of the ruler in his book of hair. This inclusion can be attributed to both Napoleon’s eminence on the political and global stage, and Leigh Hunt’s in-depth study of his subject. 
