@@ -7,4 +7,4 @@ permalink: /about-napoleon.html
 
 ## Napoleon
 
-{% include feature/image.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/215/full/full/0/default.jpg" width="75" %} 
+{% include feature/image.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/215/full/full/0/default.jpg" width="50" %} 
