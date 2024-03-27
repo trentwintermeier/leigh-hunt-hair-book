@@ -17,7 +17,7 @@ The English Romantic poet John Keats was a close personal friend of Hunt’s, in
 
 For his part, Keats expresses a debt of gratitude to Hunt, exemplified in the dedication of his first book of poetry to Hunt. Keats’s dedicatory poem begins with a lament at the loss of “glory and loveliness” before shifting into a consolation:
 
-{% include feature/modal.html button="Hunt's Dedication" title="Hunt on Keats" text=“Hunt: ''But there are left delights as high as these,
+{% include feature/modal.html button="Hunt's Dedication" title="Hunt on Keats" text=“Hunt: "But there are left delights as high as these,
 And I shall ever bless my destiny,
 That in a time, when under pleasant trees
 Pan is no longer sought, I feel a free
