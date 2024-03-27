@@ -5,7 +5,7 @@ permalink: /about-keats.html
 ---
 {% include feature/jumbotron.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/251/full/full/0/default.jpg" %}
 
-## Napoleon
+## John Keats
 
 {% include feature/image.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/251/full/full/0/default.jpg" width="25" caption="The page featuring John Keats in The Leigh Hunt Hair Book" %} 
 
