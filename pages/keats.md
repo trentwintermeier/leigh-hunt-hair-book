@@ -17,12 +17,12 @@ The English Romantic poet John Keats was a close personal friend of Hunt’s, in
 
 For his part, Keats expresses a debt of gratitude to Hunt, exemplified in the dedication of his first book of poetry to Hunt. Keats’s dedicatory poem begins with a lament at the loss of “glory and loveliness” before shifting into a consolation:
 
-{% include feature/modal.html button="Hunt's Dedication" title="Hunt on Keats" text=“'But there are left delights as high as these,
+{% include feature/modal.html button="Hunt's Dedication" title="Hunt on Keats" text=“But there are left delights as high as these,
 And I shall ever bless my destiny,
 That in a time, when under pleasant trees
 Pan is no longer sought, I feel a free
 A leafy luxury, seeing I could please
-With these poor offerings, a man like thee.' 
+With these poor offerings, a man like thee. 
 While Keats ends on a note of self-deprecation, he also expresses the pleasure of pleasing Hunt, who was especially drawn to Keats’s short lyrics. After showing Keats his prized keepsake–a lock of Milton’s hair–Hunt suggested Keats pen a poem on the subject. The resulting poem, 'On Seeing a Lock of Milton’s Hair' complements Hunt’s own poetry on the same topic. The occasion may have prompted Keats to share a lock of his own hair with Hunt as a token of their friendship." color="primary" %}
 
 When it became clear in 1820 that Keats had contracted tuberculosis, Hunt administered considerable care to his young friend. With full knowledge of the threat of contagion, Hunt took Keats into his home, where Hunt’s wife and children helped in the attempt to nurse Keats back to health. The effort proved futile as Keats’s condition worsened, but Hunt and Shelley did prevail upon Keats to travel to Italy in hopes that the warmer climate would spark a miraculous recovery. In a letter to Joseph Severn, a mutual friend who accompanied Keats on his journey to Italy to convalesce, Hunt continues to express care for Keats’s well-being, in addition to anticipatory grief at his likely passing. As it turns out, Keats had died before Hunt had penned this letter, but the news had not yet reached Hunt. The inclusion of Keats in Hunt’s hair book reflects both the bond of friendship between the men and Hunt’s high esteem for Keats’s poetry.
