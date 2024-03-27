@@ -22,7 +22,7 @@ And I shall ever bless my destiny, /
 That in a time, when under pleasant trees /
 Pan is no longer sought, I feel a free /
 A leafy luxury, seeing I could please /
-With these poor offerings, a man like thee." /
+With these poor offerings, a man like thee." 
 
 {% include feature/modal.html button="Notes on Hunt's Dedication" title="Notes on Hunt's Dedication" text="While Keats ends on a note of self-deprecation, he also expresses the pleasure of pleasing Hunt, who was especially drawn to Keats’s short lyrics. After showing Keats his prized keepsake–a lock of Milton’s hair–Hunt suggested Keats pen a poem on the subject. The resulting poem, “On Seeing a Lock of Milton’s Hair” complements Hunt’s own poetry on the same topic. The occasion may have prompted Keats to share a lock of his own hair with Hunt as a token of their friendship." color="primary" %}
 
