@@ -3,11 +3,11 @@ title: William Wordsworth
 layout: about
 permalink: /about-wordsworth.html
 ---
-{% include feature/jumbotron.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/218/full/full/0/default.jpg" %}
+{% include feature/jumbotron.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/221/full/full/0/default.jpg" %}
 
 ## William Wordsworth
 
-{% include feature/image.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/218/full/full/0/default.jpg" width="25" caption="The page featuring William Wordsworth in The Leigh Hunt Hair Book" %} 
+{% include feature/image.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/221/full/full/0/default.jpg" width="25" caption="The page featuring William Wordsworth in The Leigh Hunt Hair Book" %} 
 
 The English Romantic poet William Wordsworth wrote prolifically from 1793-1850, cementing him as one of the most renowned poets of the period. Through his joint publication of Lyrical Ballads with poet Samuel Taylor Coleridge, Wordsworth launched the Romantic age of English Literature and set a literary precedent spanning generations. Wordsworth’s literary prominence majorly impacted his younger contemporaries, notedly Leigh Hunt, who became himself both a “Wordsworthian muse” and derider (Stout 60). 
 
