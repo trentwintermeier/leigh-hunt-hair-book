@@ -12,7 +12,7 @@ permalink: /about-napoleon.html
 The French emperor and military commander Napoleon Bonaparte’s prominence during the French Revolution and Revolutionary Wars cemented him as a major figure in the early 19th century. His legacy as a political and cultural leader imbued the world with fascination and fear, and produced a political fervor that seized commoner, royal, and journalist alike. 
 Leigh Hunt was similarly absorbed with the political ascent, and the resultant descent, of Napoleon, his career as a critic and political journalist making him a key commentator on the life of Bonaparte. 
 
-{% include feature/button.html text="Napoleon Bonaparte" link="https://upload.wikimedia.org/wikipedia/commons/c/c3/Louis_Edouard_Fournier_-_The_Funeral_of_Shelley_-_Google_Art_Project.jpg" color="success" %}
+{% include feature/button.html text="Napoleon Bonaparte" link="https://www.britannica.com/biography/Napoleon-I" color="success" %}
 
 Though Leigh Hunt and Napoleon Bonaparte were never formally acquainted, Hunt’s political writings in his weekly paper The Examiner seemed to inculcate him with a deep and complex understanding of the French Emperor. Hunt wrote extensively on Napoleon for nearly a quarter of the 19th century, examining his rise, rule, and death with scrutiny and thinly veiled admiration. Such complexity of observation is seen most plainly in Hunt’s Examiner IX, published in June of 1816. In this weekly edition, Leigh Hunt regards Napoleon both as possessing positive characteristics, and as being overwrought with power:
 
