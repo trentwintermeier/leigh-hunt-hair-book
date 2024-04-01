@@ -67,4 +67,46 @@ For many years my offerings must be hush’d./
 
     Hunt’s three sonnets on the subject:
 
+{% include feature/modal.html button="Sonnet 1" title="Hunt on Milton" text="It lies before me there, and my own breath/
+Stirs its thin outer threads, as though beside/ 
+The living head I stood in honoured pride,/
+Talking of lovely things that conquer death./
+Perhaps he pressed it once, or underneath/
+Ran his fine fingers, when he leant, blank-eyed,/
+And saw, in fancy, Adam and his bride/
+With their heaped locks, or his own Delphic wreath./
+There seems a love in hair, though it be dead./
+It is the gentlest, yet the strongest thread/
+Of our frail plant,–a  blossom from the tree/
+Surviving the proud trunk; as if it said,
+Patience and Gentleness is Power. In me/
+Behold affectionate eternity." color="primary" %}
 
+{% include feature/modal.html button="Sonnet 2" title="Hunt on Milton" text="I felt my spirit leap, and look at thee/
+Through my changed colour with glad grateful stare,/
+When after shewing us this glorious hair,/
+Thou didst turn short, and bending pleasantly/
+With gracious hand gav’st the great lock to me./
+An honouring gift indeed! which I will wear/
+About me, when I breathe this strenuous air,/
+That nursed his Apollonian tresses free./
+I’ll wear it, not as my inherited due,/
+For there is one, whom had he kept his art/
+For Freedom still, nor left for the crew/
+Of lucky slaves in his misgiving heart,/
+Yet not without some claims, though far apart." color="primary" %}
+
+{% include feature/modal.html button="Sonnet 3" title="Hunt on Milton" text="A liberal taste, and a wise gentleness/
+	Have ever been the true physician’s dower,/
+	As still is visible in the placid power/
+	Of those old Grecian busts; and helps to bless/
+	The balmy name of Haller, and the address/
+	Of cordial Garth; and him in Cowley’s bower,/
+	Harvey, and Milton’s own exotic flower,/
+	Young Deodati, plucked from his caress./
+	To add to these an ear for the sweet hold/
+	Of music, and an eye, aye and a hand/
+	For forms which the smooth Graces tend and follow,/
+	Shows thee indeed true offspring of the bland/
+	And vital god, whom she of happy mould,/
+	The Larissean beauty, bore Apollo." color="primary" %}
