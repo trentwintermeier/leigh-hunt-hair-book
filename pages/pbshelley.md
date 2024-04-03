@@ -7,7 +7,7 @@ permalink: /about-pbshelley.html
 
 ## Percy Bysshe Shelley
 
-{% include feature/image.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/251/full/full/0/default.jpg" width="25" caption="The page featuring Percy Bysshe Shelley in The Leigh Hunt Hair Book" %} 
+{% include feature/image.html objectid="https://hrc.contentdm.oclc.org/digital/iiif/p15878coll14/243/full/full/0/default.jpg" width="25" caption="The page featuring Percy Bysshe Shelley in The Leigh Hunt Hair Book" %} 
 
 The English Romantic poet, playwright, and essayist Percy Bysshe Shelley was Hunt’s dearest and most intimate friend. It was Shelley who pursued the acquaintance after reading Hunt’s journalism, particularly that which criticized the Prince of Wales. Hunt’s trial and conviction for seditious libel was well-publicized, in part by Hunt himself, who kept writing and editing for the Examiner from inside Surrey Gaol. From Oxford, where he was attending the university but would soon face expulsion for his essay The Necessity of Atheism, Shelley took notice of Hunt and wrote to him (Roe 138). Though Hunt did not reply, Shelley persisted, and the pair met in the spring of 1811, with Hunt’s father-in-law, Rowland Hunter, facilitating the introduction (Holden 48).
 
