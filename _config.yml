@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: http://leighhunthairbook.github.io
+url: http://theleighhunthairbook.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /leigh-hunt-hair-book
+baseurl: /the-leigh-hunt-hair-book
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
