@@ -23,38 +23,38 @@ The material relic from Milton’s body–Hunt’s lock of his hair–served as 
 
 Keats’s “Lines on Seeing a Lock of Milton’s Hair”:
 
-{% include feature/modal.html button="Lines on Seeing a Lock of Milton's Hair" title="Keats on Milton" text="Chief of organic Numbers!/ 
-Old Scholar of the Spheres!/ 
-Thy spirit never slumbers,/ 
-But rolls about our ears/
-For ever and for ever./ 
-O, what a mad endeavour/
-Worketh he/ 
-Who, to thy sacred and ennobled hearse,/ 
-Would offer a burnt sacrifice of verse/ 
-And Melody!/ 
-How heavenward thou soundedst/ 
-Live Temple of sweet noise;/ 
-And discord unconfoundedst:/ 
-Giving delight new joys,/ 
-And Pleasure nobler pinions--/ 
-O where are thy Dominions!/ 
-Lend thine ear/ 
-To a young delian oath--aye, by thy soul,/ 
-By all that from thy mortal Lips did roll;/
-And by the Kernel of thine earthly Love,/ 
-Beauty, in things on earth and things above,/ 
-When every childish fashion/ 
-Has vanish'd from my rhyme/ 
-Will I grey-gone in passion/ 
-Give to an after-time/ 
-Hymning and harmony/ 
-Of thee, and of thy Words and of thy Life:/ 
-But vain is now the bruning and the strife--/ 
-Pangs are in vain -- until I grow high-rife/ 
-With Old Philosophy/ 
-And mad with glimpses at futurity!/
-For many years my offerings must be hush’d./
+{% include feature/modal.html button="Lines on Seeing a Lock of Milton's Hair" title="Keats on Milton" text="Chief of organic Numbers! <br> 
+Old Scholar of the Spheres! <br>
+Thy spirit never slumbers, <br>
+But rolls about our ears <br>
+For ever and for ever. <br>
+O, what a mad endeavour <br>
+Worketh he <br>
+Who, to thy sacred and ennobled hearse, <br>
+Would offer a burnt sacrifice of verse <br> 
+And Melody! <br> 
+How heavenward thou soundedst <br>
+Live Temple of sweet noise; <br>
+And discord unconfoundedst: <br>
+Giving delight new joys, <br> 
+And Pleasure nobler pinions-- <br> 
+O where are thy Dominions! <br>
+Lend thine ear <br>
+To a young delian oath--aye, by thy soul, <br> 
+By all that from thy mortal Lips did roll; <br>
+And by the Kernel of thine earthly Love, <br> 
+Beauty, in things on earth and things above, <br> 
+When every childish fashion <br> 
+Has vanish'd from my rhyme <br> 
+Will I grey-gone in passion <br>
+Give to an after-time <br> 
+Hymning and harmony <br> 
+Of thee, and of thy Words and of thy Life: <br> 
+But vain is now the bruning and the strife-- <br> 
+Pangs are in vain -- until I grow high-rife <br> 
+With Old Philosophy <br> 
+And mad with glimpses at futurity! <br>
+For many years my offerings must be hush’d. <br>
 	When I do speak, I’ll think upon this hour,/
 	Because I feel my forehead hot and flush’d–/
 	Even at the simplest vassal of thy power;/
