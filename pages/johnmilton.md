@@ -110,3 +110,5 @@ For forms which the smooth Graces tend and follow,<br>
 Shows thee indeed true offspring of the bland<br>
 And vital god, whom she of happy mould,<br>
 The Larissean beauty, bore Apollo." color="primary" %}
+
+{% include feature/image.html objectid="https://postimg.cc/CdmZ6t6T" width="25" caption="Leigh Hunt's Written Manuscript of Milton Sonnet 1" %} 
