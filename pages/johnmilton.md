@@ -55,58 +55,58 @@ Pangs are in vain -- until I grow high-rife <br>
 With Old Philosophy <br> 
 And mad with glimpses at futurity! <br>
 For many years my offerings must be hush’d. <br>
-	When I do speak, I’ll think upon this hour,/
-	Because I feel my forehead hot and flush’d–/
-	Even at the simplest vassal of thy power;/
-	A look of thy bright hair–/
-	Sudden it came,/
-	And I was startled, when I caught thy name/
-	Coupled so unaware;/
-	Yet at that moment, temperate was my blood–/
-	Methought I had beheld it from the Flood." color="primary" %}
+When I do speak, I’ll think upon this hour <br>
+Because I feel my forehead hot and flush’d– 
+Even at the simplest vassal of thy power;<br>
+A look of thy bright hair–<br>
+Sudden it came,<br>
+And I was startled, when I caught thy name<br>
+Coupled so unaware;<br>
+Yet at that moment, temperate was my blood–<br>
+Methought I had beheld it from the Flood." color="primary" %}
 
     Hunt’s three sonnets on the subject:
 
-{% include feature/modal.html button="Sonnet 1" title="Hunt on Milton" text="It lies before me there, and my own breath/
-Stirs its thin outer threads, as though beside/ 
-The living head I stood in honoured pride,/
-Talking of lovely things that conquer death./
-Perhaps he pressed it once, or underneath/
-Ran his fine fingers, when he leant, blank-eyed,/
-And saw, in fancy, Adam and his bride/
-With their heaped locks, or his own Delphic wreath./
-There seems a love in hair, though it be dead./
-It is the gentlest, yet the strongest thread/
-Of our frail plant,–a  blossom from the tree/
+{% include feature/modal.html button="Sonnet 1" title="Hunt on Milton" text="It lies before me there, and my own breath<br>
+Stirs its thin outer threads, as though beside<br> 
+The living head I stood in honoured pride,<br>
+Talking of lovely things that conquer death.<br>
+Perhaps he pressed it once, or underneath<br>
+Ran his fine fingers, when he leant, blank-eyed,<br>
+And saw, in fancy, Adam and his bride<br>
+With their heaped locks, or his own Delphic wreath.<br>
+There seems a love in hair, though it be dead.<br>
+It is the gentlest, yet the strongest thread<br>
+Of our frail plant,–a  blossom from the tree<br>
 Surviving the proud trunk; as if it said,
-Patience and Gentleness is Power. In me/
+Patience and Gentleness is Power. In me<br>
 Behold affectionate eternity." color="primary" %}
 
-{% include feature/modal.html button="Sonnet 2" title="Hunt on Milton" text="I felt my spirit leap, and look at thee/
-Through my changed colour with glad grateful stare,/
-When after shewing us this glorious hair,/
-Thou didst turn short, and bending pleasantly/
-With gracious hand gav’st the great lock to me./
-An honouring gift indeed! which I will wear/
-About me, when I breathe this strenuous air,/
-That nursed his Apollonian tresses free./
-I’ll wear it, not as my inherited due,/
-For there is one, whom had he kept his art/
-For Freedom still, nor left for the crew/
-Of lucky slaves in his misgiving heart,/
+{% include feature/modal.html button="Sonnet 2" title="Hunt on Milton" text="I felt my spirit leap, and look at thee<br>
+Through my changed colour with glad grateful stare,<br>
+When after shewing us this glorious hair,<br>
+Thou didst turn short, and bending pleasantly<br>
+With gracious hand gav’st the great lock to me.<br>
+An honouring gift indeed! which I will wear<br>
+About me, when I breathe this strenuous air,<br>
+That nursed his Apollonian tresses free.<br>
+I’ll wear it, not as my inherited due,<br>
+For there is one, whom had he kept his art<br>
+For Freedom still, nor left for the crew<br>
+Of lucky slaves in his misgiving heart,<br>
 Yet not without some claims, though far apart." color="primary" %}
 
-{% include feature/modal.html button="Sonnet 3" title="Hunt on Milton" text="A liberal taste, and a wise gentleness/
-	Have ever been the true physician’s dower,/
-	As still is visible in the placid power/
-	Of those old Grecian busts; and helps to bless/
-	The balmy name of Haller, and the address/
-	Of cordial Garth; and him in Cowley’s bower,/
-	Harvey, and Milton’s own exotic flower,/
-	Young Deodati, plucked from his caress./
-	To add to these an ear for the sweet hold/
-	Of music, and an eye, aye and a hand/
-	For forms which the smooth Graces tend and follow,/
-	Shows thee indeed true offspring of the bland/
-	And vital god, whom she of happy mould,/
-	The Larissean beauty, bore Apollo." color="primary" %}
+{% include feature/modal.html button="Sonnet 3" title="Hunt on Milton" text="A liberal taste, and a wise gentleness<br>
+Have ever been the true physician’s dower,<br>
+As still is visible in the placid power<br>
+Of those old Grecian busts; and helps to bless<br>
+The balmy name of Haller, and the address<br>
+Of cordial Garth; and him in Cowley’s bower,<br>
+Harvey, and Milton’s own exotic flower,<br>
+Young Deodati, plucked from his caress.<br>
+To add to these an ear for the sweet hold<br>
+Of music, and an eye, aye and a hand<br>
+For forms which the smooth Graces tend and follow,<br>
+Shows thee indeed true offspring of the bland<br>
+And vital god, whom she of happy mould,<br>
+The Larissean beauty, bore Apollo." color="primary" %}
