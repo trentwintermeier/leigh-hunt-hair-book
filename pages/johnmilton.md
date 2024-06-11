@@ -65,7 +65,7 @@ Coupled so unaware;<br>
 Yet at that moment, temperate was my blood–<br>
 Methought I had beheld it from the Flood." color="primary" %}
 
-{% include feature/image.html objectid="https://i.postimg.cc/DwfKjJxp/Keats-Letter-Milton-Poem-Manuscript.png" width="25" caption="John Keat's Written Manuscript of his Poem on Milton" %} 
+{% include feature/image.html objectid="https://i.postimg.cc/DwfKjJxp/Keats-Letter-Milton-Poem-Manuscript.png" width="25" caption="John Keat's Written Manuscript of 'Lines on Seeing a Lock of Milton's Hair'" %} 
 
     Hunt’s three sonnets on the subject:
 
