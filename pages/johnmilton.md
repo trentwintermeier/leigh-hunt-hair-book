@@ -65,6 +65,8 @@ Coupled so unaware;<br>
 Yet at that moment, temperate was my blood–<br>
 Methought I had beheld it from the Flood." color="primary" %}
 
+{% include feature/image.html objectid="https://i.postimg.cc/DwfKjJxp/Keats-Letter-Milton-Poem-Manuscript.png" width="25" caption="John Keat's Written Manuscript of his Poem on Milton" %} 
+
     Hunt’s three sonnets on the subject:
 
 {% include feature/modal.html button="Sonnet 1" title="Hunt on Milton" text="It lies before me there, and my own breath<br>
@@ -111,4 +113,4 @@ Shows thee indeed true offspring of the bland<br>
 And vital god, whom she of happy mould,<br>
 The Larissean beauty, bore Apollo." color="primary" %}
 
-{% include feature/image.html objectid="https://postimg.cc/CdmZ6t6T" width="25" caption="Leigh Hunt's Written Manuscript of Milton Sonnet 1" %} 
+{% include feature/image.html objectid="https://i.postimg.cc/YCXBJrVr/Manuscript-Milton-Sonnet-1.png" width="25" caption="Leigh Hunt's Written Manuscript of Milton Sonnet 1" %} 
