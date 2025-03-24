@@ -14,7 +14,7 @@
   {% for f in feet %}
     {% if f != "" %}
       {% assign clean_f = f | strip %}
-      {% include clean_f %}
+      {% include {{ clean_f }} %}
     {% endif %}
   {% endfor %}
 {% endif %}
