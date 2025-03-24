@@ -1,6 +1,7 @@
 <!-- Bootstrap bundle JS -->
 <script src="{{ '/assets/lib/bootstrap.bundle.min.js' | relative_url }}"></script>
-<!-- load other js -->
+
+<!-- Load other JS -->
 <script src="{{ '/assets/lib/lazysizes.min.js' | relative_url }}" async></script>
 
 {% if layout.gallery == true or page.gallery == true %}
@@ -14,7 +15,8 @@
   {% for f in feet %}
     {% if f != "" %}
       {% assign clean_f = f | strip %}
-      {% include {{ clean_f }} %}
+      <!-- Directly load the script using a <script> tag instead of {% include %} -->
+      <script src="{{ clean_f | relative_url }}"></script>
     {% endif %}
   {% endfor %}
 {% endif %}
