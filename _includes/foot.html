@@ -8,10 +8,12 @@
 {% endif %}
 
 {% if page.custom-foot or layout.custom-foot %}
-  {%- assign page_feet = page.custom-foot | split: ";" -%}
-  {%- assign layout_feet = layout.custom-foot | split: ";" -%}
+  {%- assign page_feet = page.custom-foot | strip | split: ";" -%}
+  {%- assign layout_feet = layout.custom-foot | strip | split: ";" -%}
   {%- assign feet = page_feet | concat: layout_feet -%}
   {% for f in feet %}
-    {% include {{ f | strip }} %}
+    {% if f != "" %}
+      {% include f | strip %}
+    {% endif %}
   {% endfor %}
-{%- endif -%}
+{% endif %}
